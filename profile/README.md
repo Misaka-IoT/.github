@@ -1,12 +1,30 @@
 ## Hi there 👋
 
-<!--
+***这里是***
 
-**Here are some ideas to get you started:**
+> Misaka loT  
+> 御坂网络
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### 关于
+
+我们的网站：[misaka-mikoto.jp](misaka-mikoto.jp)
+
+### 贡献
+
+我们欢迎任何人的贡献。  
+
+#### 方式一 - 合并请求
+
+你可以通过 Fork 后提交 Pull Request 的方式提交你的修改，我们会尽快审查。  
+贡献者会被加入进`关于`页面的`贡献者`列表中。
+
+#### 方式二 - Issues
+
+*主要针对漏洞（Bug）和新功能（Features）*  
+你可以通过仓库的 Issues 页面发起新的 Issue，我们会尽快查看并解决。
+
+#### 方式三 - 联系我们
+
+1) 在 Bilibili 上私信任一开发人员（最好能确定你要说的问题的负责者），不推荐，我们可能不会及时查看私信
+2) 在`留言板`上提出
+3) 发送邮件，不推荐，问题同1
