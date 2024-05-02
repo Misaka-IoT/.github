@@ -7,11 +7,11 @@
 
 ### 关于
 
-我们的网站：[misaka-mikoto.jp](misaka-mikoto.jp)
+我们的网站：[misaka-fans.space](misaka-fans.space)
 
 ### 贡献
 
-我们欢迎任何人的贡献。  
+我们欢迎任何人的贡献。
 
 #### 方式一 - 合并请求
 
